@@ -1,0 +1,25 @@
+{
+  "name": "vax1.js",
+  "version": "1.0.0",
+  "description": "Use this if you want to vaccinate your code against evil coronavirus disease.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyymericArn/vax1.js.git"
+  },
+  "keywords": [
+    "covid"
+  ],
+  "author": "Aymeric Arnoult",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyymericArn/vax1.js/issues"
+  },
+  "homepage": "https://github.com/AyymericArn/vax1.js#readme"
+}
